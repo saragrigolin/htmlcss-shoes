@@ -37,6 +37,12 @@ li {
     color: black;
 }
 
+a.numbers {
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
 li:hover {
     box-shadow: 5px 5px rgba(0,0,0,0.4);
 }
